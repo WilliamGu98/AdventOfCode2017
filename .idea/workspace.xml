@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f00cc7d3-a2dd-49a8-8391-d727e2394513" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day4/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day4/day4_solution.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Day4/passphraselist.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day5/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day5/day5_solution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day5/listvalues.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day6/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day6/bank.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day6/day6_solution.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day7/__init__.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Day7/day7_solution.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,41 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3/solution.py">
+      <file leaf-file-name="day7_solution.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day7/day7_solution.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="passphraselist.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day4/passphraselist.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10731">
-              <caret line="511" column="47" lean-forward="false" selection-start-line="511" selection-start-column="47" selection-end-line="511" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day4_solution.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day4/day4_solution.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-227">
-              <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day3/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -83,10 +58,15 @@
         <option value="$PROJECT_DIR$/Day3/solution.py" />
         <option value="$PROJECT_DIR$/Day4/passphraselist.txt" />
         <option value="$PROJECT_DIR$/Day4/day4_solution.py" />
+        <option value="$PROJECT_DIR$/Day5/listvalues.txt" />
+        <option value="$PROJECT_DIR$/Day5/day5_solution.py" />
+        <option value="$PROJECT_DIR$/Day6/bank.txt" />
+        <option value="$PROJECT_DIR$/Day6/day6_solution.py" />
+        <option value="$PROJECT_DIR$/Day7/day7_solution.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="952" />
     <option name="width" value="976" />
     <option name="height" value="1038" />
@@ -119,17 +99,12 @@
             <path>
               <item name="AdventOfCode2017" type="b2602c69:ProjectViewProjectNode" />
               <item name="AdventOfCode2017" type="462c0819:PsiDirectoryNode" />
-              <item name="Day1" type="462c0819:PsiDirectoryNode" />
+              <item name="Day6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AdventOfCode2017" type="b2602c69:ProjectViewProjectNode" />
               <item name="AdventOfCode2017" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AdventOfCode2017" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AdventOfCode2017" type="462c0819:PsiDirectoryNode" />
-              <item name="Day4" type="462c0819:PsiDirectoryNode" />
+              <item name="Day7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AdventOfCode2017" type="b2602c69:ProjectViewProjectNode" />
@@ -157,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.day4_solution">
+  <component name="RunManager" selected="Python.day6_solution">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,6 +164,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="AdventOfCode2017" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day4/day4_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="day5_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\willi\Desktop\Projects\Python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AdventOfCode2017" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day5/day5_solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="day6_solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\willi\Desktop\Projects\Python\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="AdventOfCode2017" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day6/day6_solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,36 +241,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="AdventOfCode2017" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.solution" />
-      <item index="1" class="java.lang.String" itemvalue="Python.solution (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.solution (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.day4_solution" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.solution (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.solution (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.day4_solution" />
+      <item index="3" class="java.lang.String" itemvalue="Python.day5_solution" />
+      <item index="4" class="java.lang.String" itemvalue="Python.day6_solution" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.day4_solution" />
-        <item index="1" class="java.lang.String" itemvalue="Python.solution (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.solution (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.solution" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.day6_solution" />
+        <item index="1" class="java.lang.String" itemvalue="Python.day5_solution" />
+        <item index="2" class="java.lang.String" itemvalue="Python.day4_solution" />
+        <item index="3" class="java.lang.String" itemvalue="Python.solution (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -280,13 +275,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="952" y="0" width="976" height="1038" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.153125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30688936" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33296338" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -368,8 +363,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day4/day4_solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-227">
-          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        <state relative-caret-position="67">
+          <caret line="62" column="28" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5/listvalues.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15215">
+          <caret line="1065" column="4" lean-forward="false" selection-start-line="1065" selection-start-column="4" selection-end-line="1065" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day5/day5_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="33" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/bank.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="62" lean-forward="false" selection-start-line="0" selection-start-column="62" selection-end-line="0" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day6/day6_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="39" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="54" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day7/day7_solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="36" column="27" lean-forward="true" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
           <folding />
         </state>
       </provider>
